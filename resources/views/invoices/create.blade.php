@@ -4,7 +4,7 @@
 
 @section('content')
 
-<div class="bg-white rounded-xl shadow p-6 max-w-2xl">
+<div class="bg-white rounded-xl shadow p-6 max-w-6xl">
     <h2 class="text-xl font-bold text-gray-800 mb-6">Create New Invoice</h2>
 
     <form action="{{ route('invoices.store') }}" method="POST" class="space-y-4">

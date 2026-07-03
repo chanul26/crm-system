@@ -4,7 +4,7 @@
 
 @section('content')
 
-<div class="bg-white rounded-xl shadow p-6 max-w-2xl">
+<div class="bg-white rounded-xl shadow p-6 max-w-6xl">
 
     <div class="flex justify-between items-start mb-6">
         <div>
