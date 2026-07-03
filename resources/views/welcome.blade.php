@@ -49,7 +49,7 @@
         <div class="flex gap-4 justify-center">
             @auth
                 <a href="{{ route('dashboard') }}"
-                   class="bg-indigo-600 text-white px-8 py-3 rounded-xl hover:bg-indigo-700 transition font-semibold text-lg">
+                   class="bg-blue-900 text-white px-8 py-3 rounded-xl hover:bg-indigo-700 transition font-semibold text-lg">
                     Go to Dashboard →
                 </a>
             @else
